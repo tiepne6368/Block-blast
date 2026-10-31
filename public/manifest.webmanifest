@@ -1,0 +1,17 @@
+{
+  "name": "Block Blast Solver",
+  "short_name": "BlockBlast",
+  "description": "AI & Heuristic Solver for Block Blast puzzles",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e293b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
