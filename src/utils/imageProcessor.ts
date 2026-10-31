@@ -2,9 +2,9 @@ import { AnalysisResponse, BlockPiece, Grid } from '../types/blockblast';
 import { normalizeShape, PRESET_SHAPES } from '../constants/pieces';
 
 export const SAMPLE_SCREENSHOT_PATH =
-  '/assets/aistudio/_09A82999-E1C9-40C0-9F28-A3C292C913CE__8c29dff8.png';
+  './assets/aistudio/_09A82999-E1C9-40C0-9F28-A3C292C913CE__8c29dff8.png';
 
-export const PINK_SAMPLE_PATH = '/assets/aistudio/blockl_dadbaf5e.jpg';
+export const PINK_SAMPLE_PATH = './assets/aistudio/blockl_dadbaf5e.jpg';
 
 // Pre-verified board state from user's first attached screenshot (Classic Dark Blue theme)
 export const USER_SAMPLE_DATA = {
